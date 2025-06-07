@@ -80,14 +80,7 @@ password_manager/
 
 ---
 
-## 💡 Future Ideas (Optional)
 
-* GUI version using Tkinter or PyQt
-* Export vault to CSV/text
-* Auto-backup
-* Per-user unique salt
-
----
 
 ## 📄 License
 
