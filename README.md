@@ -85,7 +85,7 @@ password_manager/
 ## 📄 License
 
 **MIT License**
-Built by **Amritpal Singh** with ❤️ and a whole lot of `try + except`.
+Built by **Amritpal Singh**.
 **Internship-ready project 🚀**
 
 
